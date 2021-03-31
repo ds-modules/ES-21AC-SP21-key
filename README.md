@@ -4,7 +4,7 @@ Public repo for Ethnic Studies 21
 
 # ES-21AC
 
-Spring 2020
+Spring 2021
 
 
 Professor: Victoria E. Robinson
