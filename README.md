@@ -20,7 +20,7 @@ Based on content developed previously by Ashley Quiterio, Karla Palos and Shalin
 These materials were designed to be taught as walkthroughs or demos over the course of two lecture days.
 
 ## View both notebooks on Berkeley Datahub
- [![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FES-21AC-SP1&urlpath=tree%2FES-21AC-SP21%2F&branch=main)
+ [![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FES-21AC-SP21&urlpath=tree%2FES-21AC-SP21%2F&branch=main)
 
 
 
