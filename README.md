@@ -13,9 +13,6 @@ Developers: Alma Pineda and William McEachen
 
 Based on content developed previously by Ashley Quiterio, Karla Palos and Shalini Kunapuli
 
-[ES-21AC Spring 19 Repository](https://github.com/ds-modules/ES-21AC-SP19)
-[ES-21AC Spring 20 Repository](https://github.com/ds-modules/ES-21AC-sp20)
-
 
 These materials were designed to be taught as walkthroughs or demos over the course of two lecture days.
 
@@ -30,5 +27,11 @@ These materials were designed to be taught as walkthroughs or demos over the cou
 
 ## Lecture 2 - Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/ES-21AC-SP21/main?filepath=Lecture_2.ipynb)
+
+
+[ES-21AC Spring 19 Repository](https://github.com/ds-modules/ES-21AC-SP19)
+
+
+[ES-21AC Spring 20 Repository](https://github.com/ds-modules/ES-21AC-sp20)
 
 
